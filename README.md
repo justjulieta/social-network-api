@@ -21,3 +21,10 @@ npm i
 To run the server, run:
 
 node server.js
+
+## Questions
+Created by: Julieta RSN
+
+GitHub: https://www.github.com/justjulieta
+
+Email: julieta.ramirez27@gmail.com
